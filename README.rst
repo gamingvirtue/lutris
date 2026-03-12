@@ -1,8 +1,14 @@
 ******
-Lutris
+Lutris (De-Slop Fork)
 ******
 
-|LiberaPayBadge|_ |PatreonBadge|_
+Unedited readme continues below, I'll edit this when I have time and fucks to give...
+
+This is basically just a "searched back to the last safe non-Claude commit" fork right now.
+
+But soon enough, the blackjack and hookers will be ready.
+==============
+
 
 Lutris helps you install and play video games from all eras and from most
 gaming systems. By leveraging and combining existing emulators, engine
