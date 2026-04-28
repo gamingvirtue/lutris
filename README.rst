@@ -1,12 +1,10 @@
 ******
-Lutris (De-Slop Fork)
+Lutris (Pre-Claude Archival)
 ******
 
 Unedited readme continues below, I'll edit this when I have time and fucks to give...
 
 This is basically just a "searched back to the last safe non-Claude commit" fork right now.
-
-But soon enough, the blackjack and hookers will be ready.
 
 About
 ==============
